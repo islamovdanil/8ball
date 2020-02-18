@@ -31,7 +31,7 @@ def ball():
     print("Дай подумать...")
     sleep(1)
     idResponse = randint(0, 20)
-    print(response[idResponse] + '\n\n')
+    print(response[idResponse] + '\n')
     play()
 
 
